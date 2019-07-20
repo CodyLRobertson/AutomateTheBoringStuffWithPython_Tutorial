@@ -1,7 +1,8 @@
 <strong>READ ME --</strong><br>
 <i>This is a repository designed for parallel use with the website https://automatetheboringstuff.com/</i>
 <br>
-<strong>Environment Setup</strong><br>
+<br>
+<strong>Environment Setup</strong>
 <ul>
   <li> SUBLIME TEXT 3</li>
   <li> SublimeREPL (For the Ability to run Python programs within the IDE.)</li>
