@@ -6,6 +6,8 @@
 <ul>
   <li> SUBLIME TEXT 3</li>
   <li> SublimeREPL (For the Ability to run Python programs within the IDE.)</li>
+  <br>
+  <br>
 
 <b><u>CHANGELOG</u></b>
 <ul>
