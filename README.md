@@ -4,4 +4,5 @@
 <b><u>CHANGELOG</u></b>
 <ul>
   <li>Added basic initial information such as TITLE, Subtitle, and Changelog format.</li>
+  <li>Added basic HTML Tags (For HTML practice)</li>
   </ul>
