@@ -43,9 +43,20 @@ def getAnswer(answerNumber):
 		return 'Hard No.'
 
 #4
-r = random.randint(1,10)
+'''r = random.randint(1,10)
 #5
 fortune = getAnswer(r)
 #6
 print(fortune)
+'''
+
+print(getAnswer(random.randint(1,9)))
+
+spam = print("Hello! ", end='')
+None == spam
+print(spam)
+
+print("Cats", 'Dogs', 'mice')
+print("Cats", 'Dogs', 'mice')
+
 
